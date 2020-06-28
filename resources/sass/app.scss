@@ -1,0 +1,37 @@
+// <link rel="stylesheet" href="css/linearicons.css">
+// <link rel="stylesheet" href="css/font-awesome.min.css">
+// <link rel="stylesheet" href="css/bootstrap.css">
+// <link rel="stylesheet" href="css/magnific-popup.css">
+// <link rel="stylesheet" href="css/jquery-ui.css">
+// <link rel="stylesheet" href="css/nice-select.css">
+// <link rel="stylesheet" href="css/animate.min.css">
+// <link rel="stylesheet" href="css/owl.carousel.css">
+// <link rel="stylesheet" href="css/main.css">
+@import "../template/css/linearicons.css";
+@import "../template/css/font-awesome.min.css";
+@import "../template/css/bootstrap.css";
+@import "../template/css/magnific-popup.css";
+@import "../template/css/nice-select.css";
+@import "../template/css/animate.min.css";
+// @import "../template/css/owl.carousel.css";
+@import "../template/css/main.css";
+
+.about-banner {
+    background: -webkit-linear-gradient(0deg, #8490ff 0%, #62bdfc 100%);
+}
+
+@media only screen and (max-width: 600px) {
+    .home-about-area {
+        img {
+            width: 50%;
+        }
+    }
+
+    .mbl-d-none{
+        display: none !important;
+    }
+    .banner-left {
+         margin-top: 0px !important; 
+         margin-bottom: 100px;
+    }
+}
