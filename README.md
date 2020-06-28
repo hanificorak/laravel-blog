@@ -15,7 +15,8 @@
     <li> Cache temizlemek için url sonuna /cacheclear komutu ile temizleyebilirsiniz.  (site.com/cacheclear) </li>    
 <ul>
     
-    ![Test Image 8](https://pbs.twimg.com/media/EYUWyHjXsAE1r7o.jpg)
+    <img src="https://pbs.twimg.com/media/EYUWyHjXsAE1r7o.jpg" />
+    
 Aklına takılan soruları veya eklemeleri bana iletebilirsiniz.
     
 hanificorak@outook.com
