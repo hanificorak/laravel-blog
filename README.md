@@ -17,6 +17,7 @@
 
     
 <h2>Ekran Görüntüleri</h2>
+
 ![github-large](https://i.imgyukle.com/2020/06/28/CqA6Mb.png)
 
 ![github-large](https://i.imgyukle.com/2020/06/28/CqA4pS.png)
