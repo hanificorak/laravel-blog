@@ -14,6 +14,8 @@
     <li> Proje içerisindeki bilgileri bir kere veritabanından alıyor ve ondan sonra devamlı cacheden getiriyor. </li>    
     <li> Cache temizlemek için url sonuna /cacheclear komutu ile temizleyebilirsiniz.  (site.com/cacheclear) </li>    
 <ul>
+    ![alt text](https://pbs.twimg.com/media/EYUWyHjXsAE1r7o.jpg?raw=true)
+
     
     <img src="https://pbs.twimg.com/media/EYUWyHjXsAE1r7o.jpg" />
     
