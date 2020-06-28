@@ -18,7 +18,11 @@
     
 <h2>Ekran Görüntüleri</h2>
 
+<br/>
+
 ![github-large](https://i.imgyukle.com/2020/06/28/CqA6Mb.png)
+
+<br/>
 
 ![github-large](https://i.imgyukle.com/2020/06/28/CqA4pS.png)
 Aklına takılan soruları veya eklemeleri bana iletebilirsiniz.
