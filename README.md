@@ -16,10 +16,10 @@
 <ul>
 
     
+<h5>Ekran Görüntüleri</h5>
 
-
-![github-large](https://i.imgyukle.com/2019/12/01/RXUBLs.png)
-
+![github-large](https://i.imgyukle.com/2020/06/28/CqA6Mb.png)
+![github-large](https://i.imgyukle.com/2020/06/28/CqA4pS.png)
 Aklına takılan soruları veya eklemeleri bana iletebilirsiniz.
     
 hanificorak@outook.com
