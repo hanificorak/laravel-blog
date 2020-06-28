@@ -15,8 +15,11 @@
     <li> Cache temizlemek için url sonuna /cacheclear komutu ile temizleyebilirsiniz.  (site.com/cacheclear) </li>    
 <ul>
 
-    ![github-large](https://pbs.twimg.com/media/EYUWyHjXsAE1r7o.jpg)
     
+
+
+![github-large](https://i.imgyukle.com/2019/12/01/RXUBLs.png)
+
 Aklına takılan soruları veya eklemeleri bana iletebilirsiniz.
     
 hanificorak@outook.com
