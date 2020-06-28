@@ -2,7 +2,7 @@
 
 <p> Laravel ile geliştirdiğim kendi blog sitem için hazırladığım uygulamayı sizlerle de paylaşmak istedim. </p>
 
-<h4>Nasıl kurulur ? </h4>
+<h2>Nasıl kurulur ? </h2>
 
 <ul>
     <li>İlk önce projeyi bilgisayarınıza indirin.</li>    
@@ -16,9 +16,10 @@
 <ul>
 
     
-<h5>Ekran Görüntüleri</h5>
-
+<h2>Ekran Görüntüleri</h2>
+<br/>
 ![github-large](https://i.imgyukle.com/2020/06/28/CqA6Mb.png)
+<br/>
 ![github-large](https://i.imgyukle.com/2020/06/28/CqA4pS.png)
 Aklına takılan soruları veya eklemeleri bana iletebilirsiniz.
     
