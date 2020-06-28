@@ -15,7 +15,9 @@
     <li> Cache temizlemek için url sonuna /cacheclear komutu ile temizleyebilirsiniz.  (site.com/cacheclear) </li>    
 <ul>
     
-English documentation
+<h2>English documentation</h2>
+
+<br/>
 
 <ul>
    <li>First download the project to your computer.</li>    
