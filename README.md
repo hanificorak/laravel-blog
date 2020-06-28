@@ -15,17 +15,17 @@
     <li> Cache temizlemek için url sonuna /cacheclear komutu ile temizleyebilirsiniz.  (site.com/cacheclear) </li>    
 <ul>
     
-
+English documentation
 
 <ul>
-    <li>First download the project to your computer.</li>    
-    <li>Then delete the .example field in the extension of the .env.example file or create a new .env file.</li>    
-    <li>Extract the sql file in db.rar to the database you have opened and create tables.</li>    
-    <li>Enter your database information in the .env file.</li>    
-    <li>Run the Npm install and Composer install commands. (Composer and nodejs must be installed on your computer.) </li>    
-    <li> You can run the project with php artisan serv.</li>    
-    <li> It takes the information in the project from the database once and then brings it back to the cach. </li>    
-    <li>To clear the cache, you can clear the end of the url with the / cacheclear command. (The site.com/cacheclear)</li>    
+   <li>First download the project to your computer.</li>    
+   <li>Then delete the .example field in the extension of the .env.example file or create a new .env file.</li>    
+   <li>Extract the sql file in db.rar to the database you have opened and create tables.</li>    
+   <li>Enter your database information in the .env file.</li>    
+   <li>Run the Npm install and Composer install commands. (Composer and nodejs must be installed on your computer.) </li>    
+   <li> You can run the project with php artisan serv.</li>    
+   <li> It takes the information in the project from the database once and then brings it back to the cach. </li>    
+   <li>To clear the cache, you can clear the end of the url with the / cacheclear command. (The site.com/cacheclear)</li>    
 <ul>
     
 <h2>Ekran Görüntüleri</h2>
